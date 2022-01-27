@@ -1,0 +1,44 @@
+Added Component: Designator=J4(Molex_TTL)
+Added Component: Designator=J5(Molex_TTL)
+Added Component: Designator=J6(Molex_TTL)
+Added Component: Designator=J7(Molex_TTL)
+Added Component: Designator=J8(Molex_TTL)
+Added Net: Name=60V
+Added Net: Name=GND
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Net: Name=NetJ8_2
+Added Net: Name=NetP2_1
+Added Net: Name=NetP4_1
+Added Net: Name=NetP6_1
+Added Net: Name=NetP8_1
+Added Net: Name=NetP10_1
+Added Net: Name=NetP12_1
+Added Net: Name=NetP14_1
+Added Net: Name=NetP16_1
+Added Net: Name=NetP20_1
+Added Net: Name=NetP22_1
+Added Net: Name=NetP24_1
+Added Net: Name=NetP26_1
+Added Net: Name=NetP28_1
+Added Net: Name=NetP30_1
+Added Net: Name=NetP32_1
+Added Net: Name=NetP34_1

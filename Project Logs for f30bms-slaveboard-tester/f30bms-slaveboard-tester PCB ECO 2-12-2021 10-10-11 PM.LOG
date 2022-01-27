@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetJ5_1 Pin=J5-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-2
+Removed Pin From Net: NetName=NetJ7_1 Pin=J7-1
+Removed Pin From Net: NetName=NetJ7_2 Pin=J7-2
+Removed Pin From Net: NetName=NetJ8_1 Pin=J8-1
+Removed Pin From Net: NetName=NetJ8_2 Pin=J8-2
+Removed Pin From Net: NetName=NetP34_1 Pin=R11-1
+Removed Pin From Net: NetName=NetP32_1 Pin=R12-1
+Removed Pin From Net: NetName=NetP30_1 Pin=R12-2
+Removed Pin From Net: NetName=NetP28_1 Pin=R13-2
+Removed Pin From Net: NetName=NetP28_1 Pin=R14-1
+Removed Pin From Net: NetName=NetP26_1 Pin=R14-2
+Removed Pin From Net: NetName=NetP26_1 Pin=R15-1
+Removed Pin From Net: NetName=NetP24_1 Pin=R15-2
+Removed Pin From Net: NetName=NetP22_1 Pin=R16-2
+Removed Pin From Net: NetName=NetP22_1 Pin=R17-1
+Removed Pin From Net: NetName=NetP20_1 Pin=R17-2
+Removed Pin From Net: NetName=NetP20_1 Pin=R18-1
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J5
+Change Component Designator: OldDesignator=P19 NewDesignator=P36
+Change Component Designator: OldDesignator=P20 NewDesignator=P35
+Change Component Designator: OldDesignator=P21 NewDesignator=P34
+Change Component Designator: OldDesignator=P22 NewDesignator=P33
+Change Component Designator: OldDesignator=P23 NewDesignator=P32
+Change Component Designator: OldDesignator=P24 NewDesignator=P31
+Change Component Designator: OldDesignator=P25 NewDesignator=P30
+Change Component Designator: OldDesignator=P26 NewDesignator=P29
+Change Component Designator: OldDesignator=P27 NewDesignator=P28
+Change Component Designator: OldDesignator=P28 NewDesignator=P27
+Change Component Designator: OldDesignator=P29 NewDesignator=P26
+Change Component Designator: OldDesignator=P30 NewDesignator=P25
+Change Component Designator: OldDesignator=P31 NewDesignator=P24
+Change Component Designator: OldDesignator=P32 NewDesignator=P23
+Change Component Designator: OldDesignator=P33 NewDesignator=P22
+Change Component Designator: OldDesignator=P34 NewDesignator=P21
+Change Component Designator: OldDesignator=P35 NewDesignator=P20
+Change Component Designator: OldDesignator=P36 NewDesignator=P19
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetP20_1 Pin=R11-1
+Added Pin To Net: NetName=NetP22_1 Pin=R12-1
+Added Pin To Net: NetName=NetP24_1 Pin=R12-2
+Added Pin To Net: NetName=NetP26_1 Pin=R13-2
+Added Pin To Net: NetName=NetP26_1 Pin=R14-1
+Added Pin To Net: NetName=NetP28_1 Pin=R14-2
+Added Pin To Net: NetName=NetP28_1 Pin=R15-1
+Added Pin To Net: NetName=NetP30_1 Pin=R15-2
+Added Pin To Net: NetName=NetP32_1 Pin=R16-2
+Added Pin To Net: NetName=NetP32_1 Pin=R17-1
+Added Pin To Net: NetName=NetP34_1 Pin=R17-2
+Added Pin To Net: NetName=NetP34_1 Pin=R18-1

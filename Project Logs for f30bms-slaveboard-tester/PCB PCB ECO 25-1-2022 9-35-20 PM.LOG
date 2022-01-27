@@ -1,0 +1,95 @@
+Removed Member From Class: ClassName=f30bms-slaveboard-tester Member=P1
+Change Component Footprint: Designator=P5 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P6 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P7 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P8 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P10 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P11 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P12 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P13 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P14 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P15 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P16 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P17 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P18 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P19 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P20 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P21 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P22 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P23 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P24 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P25 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P27 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P28 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P29 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P30 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P31 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P32 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P33 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P34 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P35 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P36 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P5 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P6 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P7 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P8 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P10 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P11 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P12 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P13 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P14 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P15 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P16 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P17 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P18 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P19 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P20 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P21 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P22 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P23 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P24 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P25 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P27 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P28 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P29 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P30 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P31 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P32 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P33 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P34 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P35 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P36 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Added Pin To Net: NetName=NetP6_1 Pin=R3-1
+Added Pin To Net: NetName=NetP8_1 Pin=R4-1
+Added Pin To Net: NetName=NetP10_1 Pin=R5-1
+Added Pin To Net: NetName=NetP12_1 Pin=R6-1
+Added Pin To Net: NetName=NetP14_1 Pin=R7-1
+Added Pin To Net: NetName=NetP16_1 Pin=R8-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R9-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R10-1
+Added Pin To Net: NetName=NetP34_1 Pin=R11-1
+Added Pin To Net: NetName=NetP32_1 Pin=R12-1
+Added Pin To Net: NetName=NetP30_1 Pin=R13-1
+Added Pin To Net: NetName=NetP28_1 Pin=R14-1
+Added Pin To Net: NetName=NetP24_1 Pin=R16-1
+Added Pin To Net: NetName=NetP22_1 Pin=R17-1
+Added Pin To Net: NetName=NetP20_1 Pin=R18-1
+Added Pin To Net: NetName=NetP2_1 Pin=R1-1
+Added Pin To Net: NetName=NetP2_1 Pin=R2-2
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=P5-1
+Added Pin To Net: NetName=NetP4_1 Pin=R2-1
+Added Pin To Net: NetName=NetP4_1 Pin=R3-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP26_1 Pin=P27-1
+Added Pin To Net: NetName=NetP26_1 Pin=R14-2
+Added Pin To Net: NetName=NetP26_1 Pin=R15-1
+Added Net: Name=NetP26_1
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component R10 1622796-6
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component R12 1622796-6
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component R15 1622796-6
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component R17 1622796-6
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil

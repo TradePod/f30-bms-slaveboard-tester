@@ -1,0 +1,34 @@
+Change Component DesignItemId : Designator=P4 Old DesignItemId=pad thing New DesignItemId=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P4 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Comment : Designator=P4 Old Comment=pad thing New Comment=SLAVEBOARD CONTACT
+Change Component Designator: OldDesignator=R10 NewDesignator=R18
+Change Component Designator: OldDesignator=R11 NewDesignator=R17
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R12
+Change Component Designator: OldDesignator=R17 NewDesignator=R11
+Change Component Designator: OldDesignator=R18 NewDesignator=R10
+Added Pin To Net: NetName=60V Pin=R1-2
+Added Pin To Net: NetName=NetP2_* Pin=R2-2
+Added Pin To Net: NetName=NetP6_1 Pin=R4-2
+Added Pin To Net: NetName=NetP8_1 Pin=R5-2
+Added Pin To Net: NetName=NetP10_1 Pin=R6-2
+Added Pin To Net: NetName=NetP12_1 Pin=R7-2
+Added Pin To Net: NetName=NetP14_1 Pin=R8-2
+Added Pin To Net: NetName=NetP16_1 Pin=R9-2
+Added Pin To Net: NetName=NetP34_1 Pin=R10-2
+Added Pin To Net: NetName=NetP32_1 Pin=R11-2
+Added Pin To Net: NetName=NetP30_1 Pin=R12-2
+Added Pin To Net: NetName=NetP28_1 Pin=R13-2
+Added Pin To Net: NetName=NetP26_* Pin=R14-2
+Added Pin To Net: NetName=NetP24_1 Pin=R15-2
+Added Pin To Net: NetName=NetP22_1 Pin=R16-2
+Added Pin To Net: NetName=NetP20_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetP4_* Pin=P5-1
+Added Pin To Net: NetName=NetP4_* Pin=R3-2
+Added Net: Name=NetP4_*
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=10mil New=0mil

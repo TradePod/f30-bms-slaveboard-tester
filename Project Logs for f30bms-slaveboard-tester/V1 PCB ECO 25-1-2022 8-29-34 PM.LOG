@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=60V Pin=R1-1
+Removed Pin From Net: NetName=NetP2_* Pin=R2-1
+Removed Pin From Net: NetName=NetP4_1 Pin=R3-1
+Removed Pin From Net: NetName=NetP8_1 Pin=R4-2
+Removed Pin From Net: NetName=NetP10_1 Pin=R5-2
+Removed Pin From Net: NetName=NetP12_1 Pin=R6-2
+Removed Pin From Net: NetName=NetP14_1 Pin=R7-2
+Removed Pin From Net: NetName=NetP16_1 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NetP20_1 Pin=R11-1
+Removed Pin From Net: NetName=NetP22_1 Pin=R12-1
+Removed Pin From Net: NetName=NetP26_* Pin=R13-2
+Removed Pin From Net: NetName=NetP28_1 Pin=R14-2
+Removed Pin From Net: NetName=NetP30_1 Pin=R15-2
+Removed Pin From Net: NetName=NetP32_1 Pin=R16-2
+Removed Pin From Net: NetName=NetP34_1 Pin=R17-2
+Change Component Footprint: Designator=P1 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P2 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P3 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P9 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Footprint: Designator=P26 Old Footprint=MOLEX TTL New Footprint=SLAVEBOARD CONTACT
+Change Component Comment : Designator=R2 Old Comment= New Comment=1622796-6
+Added Pin To Net: NetName=NetP18_1 Pin=P18-1
+Added Pin To Net: NetName=NetP18_1 Pin=P36-1
+Added Net: Name=NetP18_1

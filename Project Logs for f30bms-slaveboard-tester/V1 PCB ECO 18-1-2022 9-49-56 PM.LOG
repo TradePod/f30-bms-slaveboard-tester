@@ -1,0 +1,206 @@
+Removed Pin From Net: NetName=NetP2_* Pin=R1-2
+Removed Pin From Net: NetName=NetP6_1 Pin=R3-2
+Removed Pin From Net: NetName=NetP8_1 Pin=R5-1
+Removed Pin From Net: NetName=NetP10_1 Pin=R6-1
+Removed Pin From Net: NetName=NetP12_1 Pin=R7-1
+Removed Pin From Net: NetName=NetP14_1 Pin=R8-1
+Removed Pin From Net: NetName=NetP16_1 Pin=R9-1
+Removed Pin From Net: NetName=NetP24_1 Pin=R12-2
+Removed Pin From Net: NetName=NetP28_1 Pin=R15-1
+Removed Pin From Net: NetName=NetP32_1 Pin=R17-1
+Removed Pin From Net: NetName=NetP34_1 Pin=R18-1
+Change Component Comment : Designator=R2 Old Comment=1622796-6 New Comment=
+Added Component: Designator=J1(CT3151SP-0)
+Add component (AddParameter): Name = "Body Material"; Value = "Nylon,Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Mating End Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cal Test Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CT3151SP-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.05000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BKCT3151SP-0-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CT3151SP-0)
+Add component (AddParameter): Name = "Body Material"; Value = "Nylon,Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Mating End Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cal Test Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CT3151SP-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.05000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BKCT3151SP-0-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CT3151SP-0)
+Add component (AddParameter): Name = "Body Material"; Value = "Nylon,Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Mating End Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cal Test Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CT3151SP-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.05000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BKCT3151SP-0-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J4(MOLEX TTL)
+Added Component: Designator=J5(MOLEX TTL)
+Added Component: Designator=J6(MOLEX TTL)
+Added Component: Designator=J7(MOLEX TTL)
+Added Component: Designator=J8(MOLEX TTL)
+Added Component: Designator=P1(MOLEX TTL)
+Added Component: Designator=P2(MOLEX TTL)
+Added Component: Designator=P3(MOLEX TTL)
+Added Component: Designator=P4(MOLEX TTL)
+Added Component: Designator=P5(MOLEX TTL)
+Added Component: Designator=P6(MOLEX TTL)
+Added Component: Designator=P7(MOLEX TTL)
+Added Component: Designator=P8(MOLEX TTL)
+Added Component: Designator=P9(MOLEX TTL)
+Added Component: Designator=P10(MOLEX TTL)
+Added Component: Designator=P11(MOLEX TTL)
+Added Component: Designator=P12(MOLEX TTL)
+Added Component: Designator=P13(MOLEX TTL)
+Added Component: Designator=P14(MOLEX TTL)
+Added Component: Designator=P15(MOLEX TTL)
+Added Component: Designator=P16(MOLEX TTL)
+Added Component: Designator=P17(MOLEX TTL)
+Added Component: Designator=P18(MOLEX TTL)
+Added Component: Designator=P19(MOLEX TTL)
+Added Component: Designator=P20(MOLEX TTL)
+Added Component: Designator=P21(MOLEX TTL)
+Added Component: Designator=P22(MOLEX TTL)
+Added Component: Designator=P23(MOLEX TTL)
+Added Component: Designator=P24(MOLEX TTL)
+Added Component: Designator=P25(MOLEX TTL)
+Added Component: Designator=P26(MOLEX TTL)
+Added Component: Designator=P27(MOLEX TTL)
+Added Component: Designator=P28(MOLEX TTL)
+Added Component: Designator=P29(MOLEX TTL)
+Added Component: Designator=P30(MOLEX TTL)
+Added Component: Designator=P31(MOLEX TTL)
+Added Component: Designator=P32(MOLEX TTL)
+Added Component: Designator=P33(MOLEX TTL)
+Added Component: Designator=P34(MOLEX TTL)
+Added Component: Designator=P35(MOLEX TTL)
+Added Component: Designator=P36(MOLEX TTL)
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=P5-1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=P7-1
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=P11-1
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_1 Pin=P13-1
+Added Pin To Net: NetName=NetP14_1 Pin=P14-1
+Added Pin To Net: NetName=NetP14_1 Pin=P15-1
+Added Pin To Net: NetName=NetP16_1 Pin=P16-1
+Added Pin To Net: NetName=NetP16_1 Pin=P17-1
+Added Pin To Net: NetName=NetJ2_4 Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P19-1
+Added Pin To Net: NetName=NetP20_1 Pin=P20-1
+Added Pin To Net: NetName=NetP20_1 Pin=P21-1
+Added Pin To Net: NetName=NetP22_1 Pin=P22-1
+Added Pin To Net: NetName=NetP22_1 Pin=P23-1
+Added Pin To Net: NetName=NetP24_1 Pin=P24-1
+Added Pin To Net: NetName=NetP24_1 Pin=P25-1
+Added Pin To Net: NetName=NetP28_1 Pin=P28-1
+Added Pin To Net: NetName=NetP28_1 Pin=P29-1
+Added Pin To Net: NetName=NetP30_1 Pin=P30-1
+Added Pin To Net: NetName=NetP30_1 Pin=P31-1
+Added Pin To Net: NetName=NetP32_1 Pin=P32-1
+Added Pin To Net: NetName=NetP32_1 Pin=P33-1
+Added Pin To Net: NetName=NetP34_1 Pin=P34-1
+Added Pin To Net: NetName=NetP34_1 Pin=P35-1
+Added Pin To Net: NetName=NetJ2_4 Pin=P36-1
+Added Pin To Net: NetName=NetP26_* Pin=P27-1
+Added Pin To Net: NetName=NetP26_* Pin=R13-2
+Added Net: Name=NetP26_*
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J1 CT3151SP-0
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J2 CT3151SP-0
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J3 CT3151SP-0
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J4 Molex connector
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J5 Molex connector
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J6 Molex connector
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J7 Molex connector
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component J8 Molex connector
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P1 SLAVEBOARD CONTACT
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P2 SLAVEBOARD CONTACT
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P3 SLAVEBOARD CONTACT
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P4 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P5 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P6 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P7 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P8 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P9 SLAVEBOARD CONTACT
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P10 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P11 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P12 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P13 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P14 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P15 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P16 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P17 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P18 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P19 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P20 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P21 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P22 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P23 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P24 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P25 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P26 SLAVEBOARD CONTACT
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P27 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P28 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P29 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P30 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P31 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P32 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P33 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P34 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P35 pad thing
+Added Member To Class: ClassName=f30bms-slaveboard-tester Member=Component P36 pad thing
